@@ -1,8 +1,7 @@
 # Port Scanning Using Python
 The Given Python Script is Use only for Port Scanning
-# Port_Scaner
+# Port-Scaner
 BY Royall-Researchers
-
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -63,7 +62,9 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 
 For questions, concerns, or feedback, please contact [Royall-Researchers] at [royallresearchers@gmail.com].
 
+
 More on InstaGram : https://instagram.com/royallresearchers
+
 
 Blog : https://royallresearchers.blogspot.com
 
