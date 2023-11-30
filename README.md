@@ -1,8 +1,7 @@
 # Port Scanning Using Python
 The Given Python Script is Use only for Port Scanning
-
 # Port_Scaner
-# BY Royall-Researchers
+BY Royall-Researchers
 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -17,17 +16,15 @@ This tool is provided for educational and informational purposes only. The devel
 
    ```bash
    
-    git clone --
-    
+    git clone https://github.com/Royall-Researchers/Port_Scanner
     cd Port-Scanner
-    
+
 2. **Run This Script:**
 
    ```bash
-
    python Port-Scanner.py
-   
-3. **Example of This Program**
+
+3. **Output will Looks Like**
 
    ```bash
    
@@ -35,7 +32,6 @@ This tool is provided for educational and informational purposes only. The devel
     Enter the start port: 1 # set a starting port number example is shown in 1
     Enter the end port: 15  # set a end port number example is shown 15
     Scanning ports on www.example.com...
-
     Port 1: Closed
     Port 2: Closed
     Port 3: Closed
@@ -68,6 +64,9 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 For questions, concerns, or feedback, please contact [Royall-Researchers] at [royallresearchers@gmail.com].
 
 More on InstaGram : https://instagram.com/royallresearchers
+
 Blog : https://royallresearchers.blogspot.com
+
 Medium : https://medium.com/@royallresearchers
+
 Quora : https://royallresearchers.quora.com
