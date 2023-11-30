@@ -1,21 +1,23 @@
 ///
-This Tool is Created by Royall Researchers
-This Tool is only for Educational Purpose 
-no support for illegal or Un Ethical Activities
-You can Learn More From me
-Follow More InstaGram : https://instagram.com/royallresearchers
-Blog : https://royallresearchers.blogspot.com
-Medium : https://medium.com/@royallresearchers
-Quora : https://royallresearchers.quora.com
 
 ///
 import socket
-print( " ____                   _ _       ____                               _     ")
-print( "|  _ \ ___  _   _  __ _| | |     |  _ \ ___  ___  ___  __ _ _ __ ___| |__    ___ _ __ ___")                
-print( "| |_) / _ \| | | |/ _` | | |_____| |_) / _ \/ __|/ _ \/ _` | '__/ __| '_ \  / _ \ '__/ __|")
-print( "|  _ < (_) | |_| | (_| | | |_____|  _ <  __/\__ \  __/ (_| | | | (__| | | ||  __/ |  \__ \")
-print( "|_| \_\___/ \__, |\__,_|_|_|     |_| \_\___||___/\___|\__,_|_|  \___|_| |_| \___|_|  |___/")
-               
+print( " ____                   _ _       ____                               _     \n")
+print( "|  _ \ ___  _   _  __ _| | |     |  _ \ ___  ___  ___  __ _ _ __ ___| |__    ___ _ __ ___ \n")                
+print( "| |_) / _ \| | | |/ _` | | |_____| |_) / _ \/ __|/ _ \/ _` | '__/ __| '_ \  / _ \ '__/ __| \n")
+print( "|  _ < (_) | |_| | (_| | | |_____|  _ <  __/\__ \  __/ (_| | | | (__| | | ||  __/ |  \__ \ \n")
+print( "|_| \_\___/ \__, |\__,_|_|_|     |_| \_\___||___/\___|\__,_|_|  \___|_| |_| \___|_|  |___/ \n")
+
+
+print("This Tool is Created by Royall Researchers \n
+        This Tool is only for Educational Purpose \n 
+        no support for illegal or Un Ethical Activities \n
+        You can Learn More From me \n 
+        Follow More InstaGram : https://instagram.com/royallresearchers \n
+        Blog : https://royallresearchers.blogspot.com \n
+        Medium : https://medium.com/@royallresearchers \n 
+        Quora : https://royallresearchers.quora.com \n
+")               
 
 def scan_ports(target_host, start_port, end_port):
     print(f"Scanning ports on {target_host}...\n")
