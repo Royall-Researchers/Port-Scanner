@@ -1,0 +1,10 @@
+# requirements.txt
+# Use this file to specify the dependencies of your Python project
+
+# Built-in module
+# No need to include socket, as it's part of the Python standard library
+
+# Additional external libraries
+# Uncomment and add other dependencies if needed
+# requests==2.26.0
+# scapy==2.4.5
