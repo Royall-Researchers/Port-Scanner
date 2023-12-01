@@ -71,3 +71,5 @@ Blog : https://royallresearchers.blogspot.com
 Medium : https://medium.com/@royallresearchers
 
 Quora : https://royallresearchers.quora.com
+
+YouTube : https://www.youtube.com/@royallresearchers
