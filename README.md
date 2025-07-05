@@ -15,8 +15,9 @@ This tool is provided for educational and informational purposes only. The devel
 
    ```bash
    
-    git clone https://github.com/Royall-Researchers/Port_Scanner
+    git clone git@github.com:Royall-Researchers/Port-Scanner.git
     cd Port-Scanner
+    pip install -r requirements.txt
 
 2. **Run This Script:**
 
@@ -62,14 +63,3 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 
 For questions, concerns, or feedback, please contact [Royall-Researchers] at [royallresearchers@gmail.com].
 
-
-More on InstaGram : https://instagram.com/royallresearchers
-
-
-Blog : https://royallresearchers.blogspot.com
-
-Medium : https://medium.com/@royallresearchers
-
-Quora : https://royallresearchers.quora.com
-
-YouTube : https://www.youtube.com/@royallresearchers
