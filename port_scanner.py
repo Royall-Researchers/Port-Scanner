@@ -18,17 +18,6 @@ print( '''
  
 ''')
 
-
-print('''	[+]This Tool is Created by Royall Researchers 
-	[+]This Tool is only for Educational Purpose 
-        [+]no support for illegal or Un Ethical Activities 
-        [+]You can Learn More From me 
-        [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-        [+]Blog : https://royallresearchers.blogspot.com 
-        [+]Medium : https://medium.com/@royallresearchers 
-        [+]Quora : https://royallresearchers.quora.com 
-''')
-
 def scan_ports(target_host, start_port, end_port):
     print(f"Scanning ports on {target_host}...\n")
     for port in range(start_port, end_port + 1):
